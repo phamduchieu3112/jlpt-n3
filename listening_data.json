@@ -1,0 +1,541 @@
+{
+  "1.1": {
+    "title": "Ngày 2 - Nghe hiểu Mondai 4",
+    "audioUrl": "",
+    "questions": [
+      {
+        "id": 1,
+        "questionNumber": "1番",
+        "prompt": "",
+        "image": "./assets/images/day2/q1.webp",
+        "audio": "./assets/audio/day 2/Câu 1.mp3",
+        "options": [
+          "1",
+          "2",
+          "3"
+        ],
+        "startTime": 0,
+        "answer": null
+      },
+      {
+        "id": 2,
+        "questionNumber": "2番",
+        "prompt": "",
+        "image": "./assets/images/day2/q2.webp",
+        "audio": "./assets/audio/day 2/Câu 2.mp3",
+        "options": [
+          "1",
+          "2",
+          "3"
+        ],
+        "startTime": 0,
+        "answer": null
+      },
+      {
+        "id": 3,
+        "questionNumber": "3番",
+        "prompt": "",
+        "image": "./assets/images/day2/q3.webp",
+        "audio": "./assets/audio/day 2/Câu 3.mp3",
+        "options": [
+          "1",
+          "2",
+          "3"
+        ],
+        "startTime": 0,
+        "answer": null
+      },
+      {
+        "id": 4,
+        "questionNumber": "4番",
+        "prompt": "",
+        "image": "./assets/images/day2/q4.webp",
+        "audio": "./assets/audio/day 2/Câu 4.mp3",
+        "options": [
+          "1",
+          "2",
+          "3"
+        ],
+        "startTime": 0,
+        "answer": null
+      },
+      {
+        "id": 5,
+        "questionNumber": "5番",
+        "prompt": "",
+        "image": "./assets/images/day2/q5.webp",
+        "audio": "./assets/audio/day 2/Câu 5.mp3",
+        "options": [
+          "1",
+          "2",
+          "3"
+        ],
+        "startTime": 0,
+        "answer": null
+      },
+      {
+        "id": 6,
+        "questionNumber": "6番",
+        "prompt": "",
+        "image": "./assets/images/day2/q6.webp",
+        "audio": "./assets/audio/day 2/Câu 6.mp3",
+        "options": [
+          "1",
+          "2",
+          "3"
+        ],
+        "startTime": 0,
+        "answer": null
+      },
+      {
+        "id": 7,
+        "questionNumber": "7番",
+        "prompt": "",
+        "image": "./assets/images/day2/q7.webp",
+        "audio": "./assets/audio/day 2/Câu 7.mp3",
+        "options": [
+          "1",
+          "2",
+          "3"
+        ],
+        "startTime": 0,
+        "answer": null
+      },
+      {
+        "id": 8,
+        "questionNumber": "8番",
+        "prompt": "",
+        "image": "./assets/images/day2/q8.webp",
+        "audio": "./assets/audio/day 2/Câu 8.mp3",
+        "options": [
+          "1",
+          "2",
+          "3"
+        ],
+        "startTime": 0,
+        "answer": null
+      },
+      {
+        "id": 9,
+        "questionNumber": "9番",
+        "prompt": "",
+        "image": "./assets/images/day2/q9.webp",
+        "audio": "./assets/audio/day 2/Câu 9.mp3",
+        "options": [
+          "1",
+          "2",
+          "3"
+        ],
+        "startTime": 0,
+        "answer": null
+      },
+      {
+        "id": 10,
+        "questionNumber": "10番",
+        "prompt": "",
+        "image": "./assets/images/day2/q10.webp",
+        "audio": "./assets/audio/day 2/Câu 10.mp3",
+        "options": [
+          "1",
+          "2",
+          "3"
+        ],
+        "startTime": 0,
+        "answer": null
+      },
+      {
+        "id": 11,
+        "questionNumber": "11番",
+        "prompt": "",
+        "image": "./assets/images/day2/q11.webp",
+        "audio": "./assets/audio/day 2/Câu 11.mp3",
+        "options": [
+          "1",
+          "2",
+          "3"
+        ],
+        "startTime": 0,
+        "answer": null
+      },
+      {
+        "id": 12,
+        "questionNumber": "12番",
+        "prompt": "",
+        "image": "./assets/images/day2/q12.webp",
+        "audio": "./assets/audio/day 2/Câu 12.mp3",
+        "options": [
+          "1",
+          "2",
+          "3"
+        ],
+        "startTime": 0,
+        "answer": null
+      },
+      {
+        "id": 13,
+        "questionNumber": "13番",
+        "prompt": "",
+        "image": "./assets/images/day2/q13.webp",
+        "audio": "./assets/audio/day 2/Câu 13.mp3",
+        "options": [
+          "1",
+          "2",
+          "3"
+        ],
+        "startTime": 0,
+        "answer": null
+      },
+      {
+        "id": 14,
+        "questionNumber": "14番",
+        "prompt": "",
+        "image": "./assets/images/day2/q14.webp",
+        "audio": "./assets/audio/day 2/Câu 14.mp3",
+        "options": [
+          "1",
+          "2",
+          "3"
+        ],
+        "startTime": 0,
+        "answer": null
+      },
+      {
+        "id": 15,
+        "questionNumber": "15番",
+        "prompt": "",
+        "image": "./assets/images/day2/q15.webp",
+        "audio": "./assets/audio/day 2/Câu 15.mp3",
+        "options": [
+          "1",
+          "2",
+          "3"
+        ],
+        "startTime": 0,
+        "answer": null
+      },
+      {
+        "id": 16,
+        "questionNumber": "16番",
+        "prompt": "",
+        "image": "./assets/images/day2/q16.webp",
+        "audio": "./assets/audio/day 2/Câu 16.mp3",
+        "options": [
+          "1",
+          "2",
+          "3"
+        ],
+        "startTime": 0,
+        "answer": null
+      },
+      {
+        "id": 17,
+        "questionNumber": "17番",
+        "prompt": "",
+        "image": "./assets/images/day2/q17.webp",
+        "audio": "./assets/audio/day 2/Câu 17.mp3",
+        "options": [
+          "1",
+          "2",
+          "3"
+        ],
+        "startTime": 0,
+        "answer": null
+      },
+      {
+        "id": 18,
+        "questionNumber": "18番",
+        "prompt": "",
+        "image": "./assets/images/day2/q18.webp",
+        "audio": "./assets/audio/day 2/Câu 18.mp3",
+        "options": [
+          "1",
+          "2",
+          "3"
+        ],
+        "startTime": 0,
+        "answer": null
+      },
+      {
+        "id": 19,
+        "questionNumber": "19番",
+        "prompt": "",
+        "image": "./assets/images/day2/q19.webp",
+        "audio": "./assets/audio/day 2/Câu 19.mp3",
+        "options": [
+          "1",
+          "2",
+          "3"
+        ],
+        "startTime": 0,
+        "answer": null
+      },
+      {
+        "id": 20,
+        "questionNumber": "20番",
+        "prompt": "",
+        "image": "./assets/images/day2/q20.webp",
+        "audio": "./assets/audio/day 2/Câu 20.mp3",
+        "options": [
+          "1",
+          "2",
+          "3"
+        ],
+        "startTime": 0,
+        "answer": null
+      }
+    ]
+  },
+  "1.4": {
+    "title": "Ngày 5 - Nghe hiểu Mondai 3 (Đề đang lỗi)",
+    "note": "⚠️ Lưu ý: Đề bài phần Day 5 hiện đang bị lỗi thiếu nội dung và hình ảnh, chỉ có file nghe để luyện tập.",
+    "audioUrl": "",
+    "questions": [
+      {
+        "id": 1,
+        "questionNumber": "1番",
+        "prompt": "",
+        "image": null,
+        "audio": "./assets/audio/day 5/Câu 1.mp3",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "startTime": 0,
+        "answer": null
+      },
+      {
+        "id": 2,
+        "questionNumber": "2番",
+        "prompt": "",
+        "image": null,
+        "audio": "./assets/audio/day 5/Câu 2.mp3",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "startTime": 0,
+        "answer": null
+      },
+      {
+        "id": 3,
+        "questionNumber": "3番",
+        "prompt": "",
+        "image": null,
+        "audio": "./assets/audio/day 5/Câu 3.mp3",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "startTime": 0,
+        "answer": null
+      },
+      {
+        "id": 4,
+        "questionNumber": "4番",
+        "prompt": "",
+        "image": null,
+        "audio": "./assets/audio/day 5/Câu 4.mp3",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "startTime": 0,
+        "answer": null
+      },
+      {
+        "id": 5,
+        "questionNumber": "5番",
+        "prompt": "",
+        "image": null,
+        "audio": "./assets/audio/day 5/Câu 5.mp3",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "startTime": 0,
+        "answer": null
+      },
+      {
+        "id": 6,
+        "questionNumber": "6番",
+        "prompt": "",
+        "image": null,
+        "audio": "./assets/audio/day 5/Câu 6.mp3",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "startTime": 0,
+        "answer": null
+      },
+      {
+        "id": 7,
+        "questionNumber": "7番",
+        "prompt": "",
+        "image": null,
+        "audio": "./assets/audio/day 5/Câu 7.mp3",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "startTime": 0,
+        "answer": null
+      },
+      {
+        "id": 8,
+        "questionNumber": "8番",
+        "prompt": "",
+        "image": null,
+        "audio": "./assets/audio/day 5/Câu 8.mp3",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "startTime": 0,
+        "answer": null
+      }
+    ]
+  },
+  "1.11": {
+    "title": "Ngày 12 - Nghe hiểu Mondai 1 & 2",
+    "audioUrl": "",
+    "questions": [
+      {
+        "id": 1,
+        "questionNumber": "問題1 - 1番",
+        "prompt": "1. ア イ\n2. ア ウ\n3. イ ウ\n4. ア イ ウ",
+        "image": "./assets/images/day12/Câu 1 Bài 1.webp",
+        "audio": "./assets/audio/day 12/問題1.1.mp3",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "startTime": 0,
+        "answer": null
+      },
+      {
+        "id": 2,
+        "questionNumber": "問題1 - 2番",
+        "prompt": "1. テーマに合った問題にかえる\n2. やさしい問題を作る\n3. プレゼントを用意する\n4. かばんを作る",
+        "image": null,
+        "audio": "./assets/audio/day 12/問題1.2.mp3",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "startTime": 0,
+        "answer": null
+      },
+      {
+        "id": 3,
+        "questionNumber": "問題1 - 3番",
+        "prompt": "1. タイトルを大きくする\n2. ポスターの色をうすくする\n3. 写真のサイズを小さくする\n4. 会場のじょうほうをかえる",
+        "image": null,
+        "audio": "./assets/audio/day 12/問題1.3.mp3",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "startTime": 0,
+        "answer": null
+      },
+      {
+        "id": 4,
+        "questionNumber": "問題1 - 4番",
+        "prompt": "1. どんな仕事をしたいか決める\n2. インターネットで大学を調べる\n3. 大学の説明会に行く\n4. そつぎょうせいに話を聞く",
+        "image": null,
+        "audio": "./assets/audio/day 12/問題1.4.mp3",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "startTime": 0,
+        "answer": null
+      },
+      {
+        "id": 5,
+        "questionNumber": "問題2 - 1番",
+        "prompt": "1. うでをよくふること\n2. かたに力を入れないこと\n3. 足を高く上げること\n4. 前を見ること",
+        "image": null,
+        "audio": "./assets/audio/day 12/問題2.1.mp3",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "startTime": 0,
+        "answer": null
+      },
+      {
+        "id": 6,
+        "questionNumber": "問題2 - 2番",
+        "prompt": "1. 近くに住んでいる人が来なくなった\n2. きれいで明るくなった\n3. 入りにくい いんしょうになった\n4. りようきゃくがふえた",
+        "image": null,
+        "audio": "./assets/audio/day 12/問題2.2.mp3",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "startTime": 0,
+        "answer": null
+      },
+      {
+        "id": 7,
+        "questionNumber": "問題2 - 3番",
+        "prompt": "1. 料金が高いから\n2. 体力てきにきついから\n3. 一人で泳ぐのはつまらないから\n4. 場所が遠いから",
+        "image": null,
+        "audio": "./assets/audio/day 12/問題2.3.mp3",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "startTime": 0,
+        "answer": null
+      },
+      {
+        "id": 8,
+        "questionNumber": "問題2 - 4番",
+        "prompt": "1. 会社のれきしの本を作る\n2. ホームページを新しくする\n3. パーティーをする\n4. Tシャツを作る",
+        "image": null,
+        "audio": "./assets/audio/day 12/問題2.4.mp3",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "startTime": 0,
+        "answer": null
+      }
+    ]
+  }
+}
